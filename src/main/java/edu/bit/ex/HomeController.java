@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
+//깃폴더에 가져온거 임포트
 //version2
 //version1
 @Controller
